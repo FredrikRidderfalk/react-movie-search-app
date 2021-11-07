@@ -22,7 +22,6 @@ small {
   margin: 0 auto;
   max-width: 1000px;
   padding: 40px;
-  border: solid;
 }
 
 .title {
@@ -37,7 +36,6 @@ small {
 .label {
   font-size: 1.2rem;
   margin-bottom: 0.2rem;
-  text-transform: uppercase;
 }
 
 .input {
